@@ -1,0 +1,93 @@
+// Colors 
+$black:        		hsl(0, 0%, 4%) !default;
+$black-bis:    		hsl(0, 0%, 7%) !default;
+$black-ter:    		hsl(0, 0%, 14%) !default;
+
+$grey-darker:  		hsl(0, 0%, 21%) !default;
+$grey-dark:    		hsl(0, 0%, 29%) !default;
+$grey:         		hsl(0, 0%, 40%) !default;
+$grey-prelight:     hsl(0, 0%, 47%) !default;
+$grey-light:   		hsl(0, 0%, 71%) !default;
+$grey-lighter: 		hsl(0, 0%, 86%) !default;
+
+$white-ter:    		hsl(0, 0%, 96%) !default;
+$white-bis:    		hsl(0, 0%, 98%) !default;
+$white:        		hsl(0, 0%, 100%) !default;
+
+$orange:       		hsl(14,  100%, 53%) !default;
+$yellow:       		hsl(48,  100%, 67%) !default;
+$green:        		hsl(141, 71%,  48%) !default;
+$turquoise:    		hsl(171, 100%, 41%) !default;
+$cyan:         		hsl(204, 86%,  53%) !default;
+$blue:         		hsl(217, 71%,  53%) !default;
+$purple:       		hsl(271, 100%, 71%) !default;
+$red:          		hsl(348, 100%, 61%) !default;
+
+$blue-migue2:   	hsl(243, 66%, 52%);
+$blue-migue:       	hsl(212, 72%, 59%);
+
+// Misc.
+	$misc: (
+		z-index-base:		10000,
+		header-side:		'right'
+	);
+
+// Duration.
+	$duration: (
+		header:				0.5s,
+		transition:			0.2s
+	);
+
+// Size.
+	$size: (
+		border-radius:		5px,
+		border-width:		2px,
+		element-height:		2.75em,
+		element-margin:		2.25em,
+		container-width:	45em
+	);
+
+// Font.
+	$font: (
+		family:				('Open Sans', sans-serif),
+		family-fixed:		('Source Code Pro', monospace),
+		weight-light:		300,
+		weight:				400,
+		weight-bold:		700
+	);
+
+// Palette.
+	$palette: (
+		bg:					$white,
+		fg:					$grey-prelight,
+		fg-bold:			$grey,
+		fg-light:			$grey-light,
+		border:				$grey-lighter,
+		border-bg:			#fafafa,
+		border2:			#e4e4e4,
+		border2-bg:			$grey-lighter,
+		border3:			#e0e0e0,
+		border3-bg:			#eaeaea,
+
+		accent1: (
+			bg:				$blue-migue,
+			fg-bold:		$white,
+			fg:				mix($blue-migue, $white, 25%),
+			fg-light:		mix($blue-migue, $white, 40%)
+		),
+
+		accent2: (
+			bg:				$grey-light,
+			fg-bold:		$white,
+			fg:				mix($grey-light, $white, 25%),
+			fg-light:		mix($grey-light, $white, 40%)
+		),
+
+		header: (
+			bg:				$blue-migue,
+			fg-bold:		$white,
+			fg:				mix($blue-migue, $white, 25%),
+			fg-light:		mix($blue-migue, $white, 40%),
+			border:			mix($blue-migue, $white, 90%)
+		)
+	);
