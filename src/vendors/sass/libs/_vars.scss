@@ -7,7 +7,7 @@ $grey-darker:  		hsl(0, 0%, 21%) !default;
 $grey-dark:    		hsl(0, 0%, 29%) !default;
 $grey:         		hsl(0, 0%, 40%) !default;
 $grey-prelight:     hsl(0, 0%, 47%) !default;
-$grey-light:   		hsl(0, 0%, 71%) !default;
+$grey-light:   		hsl(0, 0%, 65%) !default;
 $grey-lighter: 		hsl(0, 0%, 86%) !default;
 
 $white-ter:    		hsl(0, 0%, 96%) !default;
@@ -23,8 +23,7 @@ $blue:         		hsl(217, 71%,  53%) !default;
 $purple:       		hsl(271, 100%, 71%) !default;
 $red:          		hsl(348, 100%, 61%) !default;
 
-$blue-migue:    	hsl(243, 66%, 52%);
-$blue-migue2:       hsl(212, 72%, 59%);
+$blue-migue:    	hsl(233, 100%, 54%);
 
 // Misc.
 	$misc: (
@@ -49,11 +48,11 @@ $blue-migue2:       hsl(212, 72%, 59%);
 
 // Font.
 	$font: (
-		family:				('Open Sans', sans-serif),
+		family:				('Open Sans', 'Helvetica', 'Arial', sans-serif),
 		family-fixed:		('Source Code Pro', monospace),
 		weight-light:		300,
 		weight:				400,
-		weight-bold:		700
+		weight-bold:		500
 	);
 
 // Palette.
