@@ -53,7 +53,7 @@
     "build-css": "node-sass-chokidar src/ -o src/",
     "watch-css": "yarn run build-css && node-sass-chokidar src/ -o src/ --watch --recursive",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b gh-pages -d build"
+    "deploy": "npm run build && gh-pages -b gh-pages -d build"
   },
   "jest": {
     "collectCoverageFrom": [
