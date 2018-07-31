@@ -60,7 +60,7 @@ $blue-migue:    	hsl(233, 100%, 54%);
 		bg:					$white,
 		fg:					$grey-prelight,
 		fg-bold:			$grey,
-		fg-light:			$grey-light,
+		fg-light:			mix($grey, $white, 70%), // @REVIEW
 		border:				$grey-lighter,
 		border-bg:			#fafafa,
 		border2:			#e4e4e4,

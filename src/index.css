@@ -985,7 +985,7 @@ section.special, article.special {
   text-align: center; }
 
 header p {
-  color: #a6a6a6;
+  color: #949494;
   position: relative;
   margin: 0 0 1.6875em 0; }
 
@@ -1148,22 +1148,22 @@ input[type="radio"] + label:before {
   border-radius: 100%; }
 
 ::-webkit-input-placeholder {
-  color: #a6a6a6 !important;
+  color: #949494 !important;
   font-style: italic;
   opacity: 1.0; }
 
 :-moz-placeholder {
-  color: #a6a6a6 !important;
+  color: #949494 !important;
   font-style: italic;
   opacity: 1.0; }
 
 ::-moz-placeholder {
-  color: #a6a6a6 !important;
+  color: #949494 !important;
   font-style: italic;
   opacity: 1.0; }
 
 :-ms-input-placeholder {
-  color: #a6a6a6 !important;
+  color: #949494 !important;
   font-style: italic;
   opacity: 1.0; }
 
@@ -1593,7 +1593,7 @@ input[type="button"],
     input[type="reset"].alt.icon:before,
     input[type="button"].alt.icon:before,
     .button.alt.icon:before {
-      color: #a6a6a6; }
+      color: #949494; }
   input[type="submit"].primary,
   input[type="reset"].primary,
   input[type="button"].primary,
