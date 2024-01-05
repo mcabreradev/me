@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 mcabreradev/me is built on the following main stack:
+
 - [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - [React](https://reactjs.org/) – Javascript UI Libraries
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
@@ -13,11 +14,13 @@ mcabreradev/me is built on the following main stack:
 - [css-loader](https://github.com/webpack-contrib/css-loader) – CSS Pre-processors / Extensions
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 mcabreradev/me is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
@@ -29,14 +32,15 @@ mcabreradev/me is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/8074/default_d2b16fd6997fb2e164de645a34f9b8d5a880d999.png' alt='css-loader'/> [css-loader](https://github.com/webpack-contrib/css-loader) – CSS Pre-processors / Extensions
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [mcabreradev/me](https://github.com/mcabreradev/me)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|48<br/>Tools used|11/14/23 <br/>Report generated|
+|49<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -173,9 +177,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (34)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (35)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (34)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (35)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -186,6 +190,7 @@ Full tech stack [here](/techstack.md)
 |[babel-preset-react-app](https://www.npmjs.com/babel-preset-react-app)|v3.1.2|08/01/18|Miguelangel Cabrera |MIT|N/A|
 |[babel-runtime](https://www.npmjs.com/babel-runtime)|v6.26.0|08/01/18|Miguelangel Cabrera |MIT|N/A|
 |[case-sensitive-paths-webpack-plugin](https://www.npmjs.com/case-sensitive-paths-webpack-plugin)|v2.1.2|08/01/18|Miguelangel Cabrera |MIT|N/A|
+|[chalk](https://www.npmjs.com/chalk)|v1.1.3|08/01/18|Miguelangel Cabrera |MIT|N/A|
 |[dotenv-expand](https://www.npmjs.com/dotenv-expand)|v4.2.0|08/01/18|Miguelangel Cabrera |BSD-2-Clause|N/A|
 |[eslint-config-react-app](https://www.npmjs.com/eslint-config-react-app)|v2.1.0|08/01/18|Miguelangel Cabrera |MIT|N/A|
 |[eslint-loader](https://www.npmjs.com/eslint-loader)|v2.1.0|08/01/18|Miguelangel Cabrera |MIT|N/A|
@@ -217,4 +222,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
